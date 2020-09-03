@@ -1,5 +1,8 @@
 # Django_Plaid_Project
 
+## Images of Project
+![alt text] (https://github.com/pravash21/Django_Plaid_Project/blob/master/image/signup.png)
+
 ## Setup
 
 Clone the project on your system.

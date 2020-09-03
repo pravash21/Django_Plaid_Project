@@ -1,7 +1,6 @@
 # Django_Plaid_Project
 
-## Images of Project
-![alt text] (https://github.com/pravash21/Django_Plaid_Project/blob/master/image/signup.png)
+## View Image folder for the images of the project
 
 ## Setup
 

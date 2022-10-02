@@ -102,4 +102,8 @@ How to link a bank account via Plaid after login:
 2. Select bank and put 'username' = user_good and password = 'pass_good'.
 Now see the results in celery which fetches the transaction and save it on out sqlite db.
 
+Home Page
 ![Home Page](https://github.com/pravash21/Django_Plaid_Project/blob/master/image/home.png?raw=true)
+
+Signup Page
+![Signup Page](https://github.com/pravash21/Django_Plaid_Project/blob/master/image/signup.png?raw=true)
